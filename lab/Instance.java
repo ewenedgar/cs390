@@ -1,5 +1,7 @@
 package lab;
 
+//qn 2
+
 public class Instance {
     public int count = 0;
     private int number = 5;

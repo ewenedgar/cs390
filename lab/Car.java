@@ -1,5 +1,7 @@
 package lab;
 
+// QN 1;
+
 public class Car {
 	public String name;
     String model;
